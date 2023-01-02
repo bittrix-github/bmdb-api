@@ -1,0 +1,1703 @@
+{
+
+    "genres": [
+
+        {        
+            "number": 1,
+            "name": "Drama"
+        },
+
+        {            
+            "number": 2,
+            "name": "Comedy"
+        },
+
+        {            
+            "number": 3,
+            "name": "Thriller"
+        },
+        
+        {            
+            "number": 4,
+            "name": "Crime"
+        },
+        
+        {            
+            "number": 5,
+            "name": "Romance"
+        },
+        
+        {            
+            "number": 6,
+            "name": "Sci-Fi"
+        },
+        
+        {            
+            "number": 7,
+            "name": "Western"
+        },
+        
+        {            
+            "number": 8,
+            "name": "Action"
+        },
+        
+        {            
+            "number": 9,
+            "name": "Coming-of-age"
+        },
+        
+        {            
+            "number": 10,
+            "name": "Psychological"
+        },
+        
+        {            
+            "number": 11,
+            "name": "Animation"
+        },
+        
+        {            
+            "number": 12,
+            "name": "Adventure"
+        },
+        
+        {            
+            "number": 13,
+            "name": "Epic"
+        }
+
+    ],
+
+    
+
+    "movies": [
+
+        {
+            "id": "1",
+            "title": "Alice Doesn't Live Here Anymore",
+            "year": "1974",
+            "genre": [1],
+            "rate": "8",
+            "director": "Martin Scorsese",
+            "cast": "Ellen Burstyn, Kris Kristofferson, Mia Bendixsen",
+            "wikipedia": "https://en.wikipedia.org/wiki/Alice_Doesn%27t_Live_Here_Anymore",
+            "image": "https://bittrix-github.github.io/bmdb-images/alice-doesnt-live-here-anymore.jpg",
+            "info": "A recently widowed woman is on the road with her precocious young son, determined to make a new life for herself as a singer."
+        },
+
+        {
+            "id": "2",
+            "title": "Atlantic City",
+            "year": "1980",
+            "genre": [4, 3],
+            "rate": "9",
+            "director": "Louis Malle",
+            "cast": "Burt Lancaster, Susan Sarandon, Kate Reid",
+            "wikipedia": "https://en.wikipedia.org/wiki/Atlantic_City_(1980_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/atlantic-city.jpg",
+            "info": "In a corrupt city, a small-time gangster and the estranged wife of a pot dealer find themselves thrown together in an escapade of love, money, drugs and danger."
+        },
+
+        {
+            "id": "3",
+            "title": "Blue Ruin",
+            "year": "2013",
+            "genre": [3],
+            "rate": "8",
+            "director": "Jeremy Saulnier",
+            "cast": "Macon Blair, Devin Ratray, Amy Hargreaves",
+            "wikipedia": "https://en.wikipedia.org/wiki/Blue_Ruin",
+            "image": "https://bittrix-github.github.io/bmdb-images/blue-ruin.jpg",
+            "info": "A mysterious outsider's quiet life is turned upside down when he returns to his childhood home to carry out an act of vengeance."
+        },
+
+        {
+            "id": "4",
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "year": "2004",
+            "genre": [1, 6, 5],
+            "rate": "9",
+            "director": "Michel Gondry",
+            "cast": "Jim Carrey, Kate Winslet, Tom Wilkinson",
+            "wikipedia": "https://en.wikipedia.org/wiki/Eternal_Sunshine_of_the_Spotless_Mind",
+            "image": "https://bittrix-github.github.io/bmdb-images/eternal-sunshine-of-the-spotless-mind.jpg",
+            "info": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever."
+        },
+
+        {
+            "id": "5",
+            "title": "Ford v Ferrari",
+            "year": "2019",
+            "genre": [8, 1],
+            "rate": "7",
+            "director": "James Mangold",
+            "cast": "Matt Damon, Christian Bale, Jon Bernthal",
+            "wikipedia": "https://en.wikipedia.org/wiki/Ford_v_Ferrari",
+            "image": "https://bittrix-github.github.io/bmdb-images/ford-v-ferrari.jpg",
+            "info": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966."
+        },
+
+        {
+            "id": "6",
+            "title": "Once Upon a Time in the West",
+            "year": "1968",
+            "genre": [7],
+            "rate": "9",
+            "director": "Sergio Leone",
+            "cast": "Henry Fonda, Charles Bronson, Claudia Cardinale",
+            "wikipedia": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_the_West",
+            "image": "https://bittrix-github.github.io/bmdb-images/once-upon-a-time-in-the-west.jpg",
+            "info": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad."
+        },
+
+        {
+            "id": "7",
+            "title": "Once Upon a Time in... Hollywood",
+            "year": "2019",
+            "genre": [1, 2],
+            "rate": "9",
+            "director": "Quentin Tarantino",
+            "cast": "Leonardo DiCaprio, Brad Pitt, Margot Robbie",
+            "wikipedia": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood",
+            "image": "https://bittrix-github.github.io/bmdb-images/once-upon-a-time-in-hollywood.jpg",
+            "info": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles."
+        },
+
+        {
+            "id": "8",
+            "title": "Serpico",
+            "year": "1973",
+            "genre": [4, 1],
+            "rate": "10",
+            "director": "Sidney Lumet",
+            "cast": "Al Pacino, John Randolph, Jack Kehoe",
+            "wikipedia": "https://en.wikipedia.org/wiki/Serpico",
+            "image": "https://bittrix-github.github.io/bmdb-images/serpico.jpg",
+            "info": "An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him."
+        },
+
+        {
+            "id": "9",
+            "title": "Shutter Island",
+            "year": "2010",
+            "genre": [10, 3],
+            "rate": "9",
+            "director": "Martin Scorsese",
+            "cast": "Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",
+            "wikipedia": "https://en.wikipedia.org/wiki/Shutter_Island_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/shutter-island.jpg",
+            "info": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane."
+        },
+
+        {
+            "id": "10",
+            "title": "Terms of Endearment",
+            "year": "1983",
+            "genre": [1],
+            "rate": "9",
+            "director": "James L. Brooks",
+            "cast": "Shirley MacLaine, Debra Winger, Jack Nicholson",
+            "wikipedia": "https://en.wikipedia.org/wiki/Terms_of_Endearment",
+            "image": "https://bittrix-github.github.io/bmdb-images/terms-of-endearment.jpg",
+            "info": "Follows hard-to-please Aurora looking for love, and her daughter's family problems."
+        },
+
+        {
+            "id": "11",
+            "title": "To Kill a Mockingbird",
+            "year": "1962",
+            "genre": [1],
+            "rate": "8",
+            "director": "Robert Mulligan",
+            "cast": "Gregory Peck, Jhon Megna, Frank Overton",
+            "wikipedia": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/to-kill-a-mockingbird.jpg",
+            "info": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice."
+        },
+
+        {
+            "id": "12",
+            "title": "Blood Simple",
+            "year": "1984",
+            "genre": [4, 1, 3],
+            "rate": "8",
+            "director": "Joel Coen, Ethan Coen",
+            "cast": "John Getz, Frances McDormand, Dan Hedaya",
+            "wikipedia": "https://en.wikipedia.org/wiki/Blood_Simple",
+            "image": "https://bittrix-github.github.io/bmdb-images/blood-simple.jpg",
+            "info": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife."
+        },
+
+        {
+            "id": "13",
+            "title": "American Beauty",
+            "year": "1999",
+            "genre": [1, 2],
+            "rate": "9",
+            "director": "Sam Mendes",
+            "cast": "Kevin Spacey, Annette Bening, Thora Birch",
+            "wikipedia": "https://en.wikipedia.org/wiki/American_Beauty_(1999_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/american-beauty.jpg",
+            "info": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend."
+        },
+
+        {
+            "id": "14",
+            "title": "On the Waterfront",
+            "year": "1954",
+            "genre": [4, 1],
+            "rate": "7",
+            "director": "Elia Kazan",
+            "cast": "Marlon Brando, Karl Malden, Lee J. Cobb",
+            "wikipedia": "https://en.wikipedia.org/wiki/On_the_Waterfront",
+            "image": "https://bittrix-github.github.io/bmdb-images/on-the-waterfront.jpg",
+            "info": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother."
+        },
+
+        {
+            "id": "15",
+            "title": "East of Eden",
+            "year": "1955",
+            "genre": [1],
+            "rate": "8",
+            "director": "Elia Kazan",
+            "cast": "James Dean, Raymond Massey, Julie Harris",
+            "wikipedia": "https://en.wikipedia.org/wiki/East_of_Eden_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/east-of-eden.jpg",
+            "info": "Two brothers in 1910s California struggle to maintain their strict, Bible-toting father's favor as an old secret about their long-absent mother comes to light."
+        },
+
+        {
+            "id": "16",
+            "title": "Rebel Without a Cause",
+            "year": "1955",
+            "genre": [9, 1],
+            "rate": "9",
+            "director": "Nicholas Ray",
+            "cast": "James Dean, Natalie Wood, Sal Mineo",
+            "wikipedia": "https://en.wikipedia.org/wiki/Rebel_Without_a_Cause",
+            "image": "https://bittrix-github.github.io/bmdb-images/rebel-without-a-cause.jpg",
+            "info": "A rebellious young man with a troubled past comes to a new town, finding friends and enemies."
+        },
+
+        {
+            "id": "17",
+            "title": "Blackboard Jungle",
+            "year": "1955",
+            "genre": [1],
+            "rate": "9",
+            "director": "Richard Brooks",
+            "cast": "Glenn Ford, Anne Francis, Louis Calhern",
+            "wikipedia": "https://en.wikipedia.org/wiki/Blackboard_Jungle",
+            "image": "https://bittrix-github.github.io/bmdb-images/blackboard-jungle.jpg",
+            "info": "A new English teacher at a violent, unruly inner-city school is determined to do his job, despite resistance from both students and faculty."
+        },
+
+        {
+            "id": "18",
+            "title": "Bullitt",
+            "year": "1968",
+            "genre": [4, 3, 8],
+            "rate": "9",
+            "director": "Peter Yates",
+            "cast": "Steve McQueen, Jacqueline Bisset, Robert Vaughn",
+            "wikipedia": "https://en.wikipedia.org/wiki/Bullitt",
+            "image": "https://bittrix-github.github.io/bmdb-images/bullitt.jpg",
+            "info": "An all-guts, no-glory San Francisco cop becomes determined to find the underworld kingpin that killed the witness in his protection."
+        },
+
+        {
+            "id": "19",
+            "title": "The Driver",
+            "year": "1978",
+            "genre": [4, 3],
+            "rate": "8",
+            "director": "Walter Hill",
+            "cast": "Ryan O'Neal, Bruce Dern, Isabelle Adjani",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Driver",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-driver.jpg",
+            "info": "A getaway driver becomes the latest assignment for a tenacious detective."
+        },
+
+        {
+            "id": "20",
+            "title": "Le Samouraï",
+            "year": "1967",
+            "genre": [4, 3],
+            "rate": "8",
+            "director": "Jean-Pierre Melville",
+            "cast": "Alain Delon, François Périer, Nathalie Delon",
+            "wikipedia": "https://en.wikipedia.org/wiki/Le_Samoura%C3%AF",
+            "image": "https://bittrix-github.github.io/bmdb-images/le-samourai.jpg",
+            "info": "After professional hitman Jef Costello is seen by witnesses his efforts to provide himself an alibi drive him further into a corner."
+        },
+
+        {
+            "id": "21",
+            "title": "Cruising",
+            "year": "1980",
+            "genre": [4, 1, 3],
+            "rate": "8",
+            "director": "William Friedkin",
+            "cast": "Al Pacino, Paul Sorvino, Karen Allen",
+            "wikipedia": "https://en.wikipedia.org/wiki/Cruising_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/cruising.jpg",
+            "info": "A police detective goes undercover in the underground S&M gay subculture of New York City to catch a serial killer who is preying on gay men."
+        },
+
+        {
+            "id": "22",
+            "title": "Primal Fear",
+            "year": "1996",
+            "genre": [4, 1, 3],
+            "rate": "8",
+            "director": "Gregory Hoblit",
+            "cast": "Richard Gere, Laura Linney, Edward Norton",
+            "wikipedia": "https://en.wikipedia.org/wiki/Primal_Fear_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/primal-fear.jpg",
+            "info": "An altar boy is accused of murdering a priest, and the truth is buried several layers deep."
+        },
+
+        {
+            "id": "23",
+            "title": "A Clockwork Orange",
+            "year": "1971",
+            "genre": [4, 6],
+            "rate": "9",
+            "director": "Stanley Kubrick",
+            "cast": "Malcolm McDowell, Patrick Magee, Michael Bates",
+            "wikipedia": "https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/a-clockwork-orange.jpg",
+            "info": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned."
+        },
+
+        {
+            "id": "24",
+            "title": "Oldboy",
+            "year": "2003",
+            "genre": [1, 3],
+            "rate": "9",
+            "director": "Park Chan-wook",
+            "cast": "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",
+            "wikipedia": "https://en.wikipedia.org/wiki/Oldboy_(2003_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/oldboy.jpg",
+            "info": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days."
+        },
+
+        {
+            "id": "25",
+            "title": "Terminator 2: Judgment Day",
+            "year": "1991",
+            "genre": [6, 8],
+            "rate": "9",
+            "director": "James Cameron",
+            "cast": "Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",
+            "wikipedia": "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day",
+            "image": "https://bittrix-github.github.io/bmdb-images/terminator-2.jpg",
+            "info": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old adolescent son John from an even more advanced and powerful cyborg."
+        },
+
+        {
+            "id": "26",
+            "title": "The Dark Knight",
+            "year": "2008",
+            "genre": [4, 1, 8],
+            "rate": "10",
+            "director": "Christopher Nolan",
+            "cast": "Christian Bale, Heath Ledger, Aaron Eckhart",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Dark_Knight",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-dark-knight.jpg",
+            "info": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+        },
+
+        {
+            "id": "27",
+            "title": "Death Proof",
+            "year": "2007",
+            "genre": [3, 8, 2],
+            "rate": "10",
+            "director": "Quentin Tarantino",
+            "cast": "Kurt Russell, Zoë Bell, Rosario Dawson",
+            "wikipedia": "https://en.wikipedia.org/wiki/Death_Proof",
+            "image": "https://bittrix-github.github.io/bmdb-images/death-proof.jpg",
+            "info": "Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his death proof cars to execute his murderous plans."
+        },
+
+        {
+            "id": "28",
+            "title": "Three Colours: Blue",
+            "year": "1993",
+            "genre": [1, 3],
+            "rate": "7",
+            "director": "Krzysztof Kieslowski",
+            "cast": "Juliette Binoche, Zbigniew Zamachowski, Julie Delpy",
+            "wikipedia": "https://en.wikipedia.org/wiki/Three_Colours:_Blue",
+            "image": "https://bittrix-github.github.io/bmdb-images/three-colours-blue.jpg",
+            "info": "A woman struggles to find a way to live her life after the death of her husband and child."
+        },
+
+        {
+            "id": "29",
+            "title": "Three Colours: White",
+            "year": "1994",
+            "genre": [1, 3],
+            "rate": "8",
+            "director": "Krzysztof Kieslowski",
+            "cast": "Zbigniew Zamachowski, Julie Delpy, Janusz Gajos",
+            "wikipedia": "https://en.wikipedia.org/wiki/Three_Colours:_White",
+            "image": "https://bittrix-github.github.io/bmdb-images/three-colours-white.jpg",
+            "info": "After his wife divorces him, a Polish immigrant plots to get even with her."
+        },
+
+        {
+            "id": "30",
+            "title": "Three Colours: Red",
+            "year": "1994",
+            "genre": [1, 3],
+            "rate": "7",
+            "director": "Krzysztof Kieslowski",
+            "cast": "Irène Jacob, Jean-Louis Trintignant, Frédérique Feder",
+            "wikipedia": "https://en.wikipedia.org/wiki/Three_Colours:_Red",
+            "image": "https://bittrix-github.github.io/bmdb-images/three-colours-red.jpg",
+            "info": "A model discovers a retired judge is keen on invading people's privacy."
+        },
+
+        {
+            "id": "31",
+            "title": "Relatos salvajes",
+            "year": "2014",
+            "genre": [3, 2, 1],
+            "rate": "9",
+            "director": "Damián Szifron",
+            "cast": "Darío Grandinetti, María Marull, Mónica Villa",
+            "wikipedia": "https://en.wikipedia.org/wiki/Wild_Tales_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/relatos-salvajes.jpg",
+            "info": "Six short stories that explore the extremities of human behavior involving people in distress."
+        },
+
+        {
+            "id": "32",
+            "title": "Forrest Gump",
+            "year": "1994",
+            "genre": [2, 1],
+            "rate": "10",
+            "director": "Robert Zemeckis",
+            "cast": "Tom Hanks, Robin Wright, Gary Sinise",
+            "wikipedia": "https://en.wikipedia.org/wiki/Forrest_Gump",
+            "image": "https://bittrix-github.github.io/bmdb-images/forrest-gump.jpg",
+            "info": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+        },
+
+        {
+            "id": "33",
+            "title": "It's a Wonderful Life",
+            "year": "1946",
+            "genre": [2, 1],
+            "rate": "9",
+            "director": "Frank Capra",
+            "cast": "James Stewart, Donna Reed, Lionel Barrymore",
+            "wikipedia": "https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life",
+            "image": "https://bittrix-github.github.io/bmdb-images/its-a-wonderful-life.jpg",
+            "info": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed."
+        },
+
+        {
+            "id": "34",
+            "title": "Interstellar",
+            "year": "2014",
+            "genre": [6],
+            "rate": "10",
+            "director": "Christopher Nolan",
+            "cast": " Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+            "wikipedia": "https://en.wikipedia.org/wiki/Interstellar_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/interstellar.jpg",
+            "info": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+        },
+
+        {
+            "id": "35",
+            "title": "Rear Window",
+            "year": "1954",
+            "genre": [3],
+            "rate": "8",
+            "director": "Alfred Hitchcock",
+            "cast": "James Stewart, Grace Kelly, Wendell Corey",
+            "wikipedia": "https://en.wikipedia.org/wiki/Rear_Window",
+            "image": "https://bittrix-github.github.io/bmdb-images/rear-window.jpg",
+            "info": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend."
+        },
+
+        {
+            "id": "36",
+            "title": "One Flew Over the Cuckoo's Nest",
+            "year": "1975",
+            "genre": [10, 2, 1],
+            "rate": "8",
+            "director": "Milos Forman",
+            "cast": "Jack Nicholson, Louise Fletcher, Michael Berryman",
+            "wikipedia": "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/one-flew-over-the-cuckoos-nest.jpg",
+            "info": "In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse."
+        },
+
+        {
+            "id": "37",
+            "title": "Minority Report",
+            "year": "2002",
+            "genre": [6, 8],
+            "rate": "9",
+            "director": "Steven Spielberg",
+            "cast": "Tom Cruise, Colin Farrell, Samantha Morton",
+            "wikipedia": "https://en.wikipedia.org/wiki/Minority_Report_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/minority-report.jpg",
+            "info": "In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder."
+        },
+
+        {
+            "id": "38",
+            "title": "Sunset Boulevard",
+            "year": "1950",
+            "genre": [3, 2],
+            "rate": "8",
+            "director": "Billy Wilder",
+            "cast": "William Holden, Gloria Swanson, Erich von Stroheim",
+            "wikipedia": "https://en.wikipedia.org/wiki/Sunset_Boulevard_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/sunset-boulevard.jpg",
+            "info": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return."
+        },
+
+        {
+            "id": "39",
+            "title": "Network",
+            "year": "1976",
+            "genre": [2, 1],
+            "rate": "9",
+            "director": "Sidney Lumet",
+            "cast": "Faye Dunaway, William Holden, Peter Finch",
+            "wikipedia": "https://en.wikipedia.org/wiki/Network_(1976_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/network.jpg",
+            "info": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control."
+        },
+
+        {
+            "id": "40",
+            "title": "A Most Violent Year",
+            "year": "2014",
+            "genre": [4, 1],
+            "rate": "8",
+            "director": "J.C. Chandor",
+            "cast": "Oscar Isaac, Jessica Chastain, David Oyelowo",
+            "wikipedia": "https://en.wikipedia.org/wiki/A_Most_Violent_Year",
+            "image": "https://bittrix-github.github.io/bmdb-images/a-most-violent-year.jpg",
+            "info": "In New York City 1981, an ambitious immigrant fights to protect his business and family during the most dangerous year in the city's history."
+        },
+
+        {
+            "id": "41",
+            "title": "Toy Story",
+            "year": "1995",
+            "genre": [11, 2, 12],
+            "rate": "10",
+            "director": "John Lasseter",
+            "cast": "Tom Hanks (voice), Tim Allen (voice), Don Rickles (voice)",
+            "wikipedia": "https://en.wikipedia.org/wiki/Toy_Story",
+            "image": "https://bittrix-github.github.io/bmdb-images/toy-story.jpg",
+            "info": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom."
+        },
+
+        {
+            "id": "42",
+            "title": "Toy Story 2",
+            "year": "1999",
+            "genre": [11, 2, 12],
+            "rate": "10",
+            "director": "John Lasseter",
+            "cast": "Tom Hanks (voice), Tim Allen (voice), Joan Cusack (voice)",
+            "wikipedia": "https://en.wikipedia.org/wiki/Toy_Story_2",
+            "image": "https://bittrix-github.github.io/bmdb-images/toy-story-2.jpg",
+            "info": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye."
+        },
+
+        {
+            "id": "43",
+            "title": "Toy Story 3",
+            "year": "2010",
+            "genre": [11, 2, 12],
+            "rate": "10",
+            "director": "John Lasseter",
+            "cast": "Tom Hanks (voice), Tim Allen (voice), Joan Cusack (voice)",
+            "wikipedia": "https://en.wikipedia.org/wiki/Toy_Story_3",
+            "image": "https://bittrix-github.github.io/bmdb-images/toy-story-3.jpg",
+            "info": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+        },
+
+        {
+            "id": "44",
+            "title": "Bonnie and Clyde",
+            "year": "1967",
+            "genre": [4, 1],
+            "rate": "7",
+            "director": "Arthur Penn",
+            "cast": "Warren Beatty, Faye Dunaway, Michael J. Pollard",
+            "wikipedia": "https://en.wikipedia.org/wiki/Bonnie_and_Clyde_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/bonnie-and-clyde.jpg",
+            "info": "Bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks."
+        },
+
+        {
+            "id": "45",
+            "title": "Butch Cassidy and the Sundance Kid",
+            "year": "1969",
+            "genre": [7],
+            "rate": "10",
+            "director": "George Roy Hill",
+            "cast": " Paul Newman, Robert Redford, Katharine Ross",
+            "wikipedia": "https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid",
+            "image": "https://bittrix-github.github.io/bmdb-images/butch-cassidy-and-the-sundance-kid.jpg",
+            "info": "Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels."
+        },
+
+        {
+            "id": "46",
+            "title": "What's Eating Gilbert Grape",
+            "year": "1993",
+            "genre": [1, 9],
+            "rate": "8",
+            "director": "Lasse Hallström",
+            "cast": "Johnny Depp, Leonardo DiCaprio, Juliette Lewis",
+            "wikipedia": "https://en.wikipedia.org/wiki/What%27s_Eating_Gilbert_Grape",
+            "image": "https://bittrix-github.github.io/bmdb-images/whats-eating-gilbert-grape.jpg",
+            "info": "A young man in a small Midwestern town struggles to care for his mentally-disabled younger brother and morbidly obese mother while attempting to pursue his own happiness."
+        },
+
+        {
+            "id": "47",
+            "title": "Room",
+            "year": "2015",
+            "genre": [1],
+            "rate": "8",
+            "director": "Lenny Abrahamson",
+            "cast": "Brie Larson, Jacob Tremblay, Sean Bridgers",
+            "wikipedia": "https://en.wikipedia.org/wiki/Room_(2015_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/room.jpg",
+            "info": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time."
+        },
+
+        {
+            "id": "48",
+            "title": "The Revenant",
+            "year": "2015",
+            "genre": [13, 7, 12],
+            "rate": "9",
+            "director": "Alejandro G. Iñárritu",
+            "cast": "Leonardo DiCaprio, Tom Hardy, Will Poulter",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Revenant_(2015_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-revenant.jpg",
+            "info": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+        },
+
+        {
+            "id": "49",
+            "title": "Casablanca",
+            "year": "1942",
+            "genre": [5, 1],
+            "rate": "8",
+            "director": "Michael Curtiz",
+            "cast": "Humphrey Bogart, Ingrid Bergman, Paul Henreid",
+            "wikipedia": "https://en.wikipedia.org/wiki/Casablanca_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/casablanca.jpg",
+            "info": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco."
+        },
+
+        {
+            "id": "50",
+            "title": "The Peanuts Movie",
+            "year": "2015",
+            "genre": [11, 2],
+            "rate": "10",
+            "director": "Steve Martino",
+            "cast": "Noah Schnapp (voice), Bill Melendez (archive sound), Hadley Belle Miller(voice)",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Peanuts_Movie",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-peanuts-movie.jpg",
+            "info": "Snoopy embarks upon his greatest mission as he and his team take to the skies to pursue their archnemesis, while his best pal Charlie Brown begins his own epic quest back home to win the love of his life."
+        },
+
+        {
+            "id": "51",
+            "title": "The Graduate",
+            "year": "1967",
+            "genre": [2, 1],
+            "rate": "9",
+            "director": "Mike Nichols",
+            "cast": "Dustin Hoffman, Anne Bancroft, Katharine Ross",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Graduate",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-graduate.jpg",
+            "info": "A disillusioned college graduate finds himself torn between his older lover and her daughter."
+        },
+
+        {
+            "id": "52",
+            "title": "Short Term 12",
+            "year": "2013",
+            "genre": [1],
+            "rate": "8",
+            "director": "Destin Daniel Cretton",
+            "cast": "Brie Larson, John Gallagher Jr., Rami Malek",
+            "wikipedia": "https://en.wikipedia.org/wiki/Short_Term_12",
+            "image": "https://bittrix-github.github.io/bmdb-images/short-term-12 .jpg",
+            "info": "A 20-something supervising staff member of a residential treatment facility navigates the troubled waters of that world alongside her co-worker and longtime boyfriend."
+        },
+
+        {
+            "id": "53",
+            "title": "Dope",
+            "year": "2015",
+            "genre": [9, 2, 1],
+            "rate": "8",
+            "director": "Rick Famuyiwa",
+            "cast": "Shameik Moore, Tony Revolori, Kiersey Clemons",
+            "wikipedia": "https://en.wikipedia.org/wiki/Dope_(2015_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/dope.jpg",
+            "info": "Life changes for Malcolm, a geek who's surviving life in a tough neighborhood, after a chance invitation to an underground party leads him and his friends into a Los Angeles adventure."
+        },
+
+        {
+            "id": "54",
+            "title": "The Apartment",
+            "year": "1960",
+            "genre": [2, 1],
+            "rate": "8",
+            "director": "Billy Wilder",
+            "cast": "Jack Lemmon, Shirley MacLaine, Fred MacMurray",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Apartment",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-apartment .jpg",
+            "info": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue."
+        },
+
+        {
+            "id": "55",
+            "title": "The Sting",
+            "year": "1973",
+            "genre": [2, 3],
+            "rate": "10",
+            "director": "George Roy Hill",
+            "cast": "Paul Newman, Robert Redford, Robert Shaw",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Sting",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-sting.jpg",
+            "info": "Two grifters team up to pull off the ultimate con."
+        },
+
+        {
+            "id": "56",
+            "title": "The Matrix",
+            "year": "1999",
+            "genre": [6, 8],
+            "rate": "8",
+            "director": "Lana Wachowski, Lilly Wachowski",
+            "cast": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Matrix",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-matrix.jpg",
+            "info": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth: the life he knows is the elaborate deception of an evil cyber-intelligence."
+        },
+
+        {
+            "id": "57",
+            "title": "The Usual Suspects",
+            "year": "1995",
+            "genre": [4, 3],
+            "rate": "9",
+            "director": "Bryan Singer",
+            "cast": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Usual_Suspects",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-usual-suspects.jpg",
+            "info": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+        },
+
+        {
+            "id": "58",
+            "title": "Blue Velvet",
+            "year": "1986",
+            "genre": [3, 4],
+            "rate": "9",
+            "director": "David Lynch",
+            "cast": "Isabella Rossellini, Kyle MacLachlan, Dennis Hopper",
+            "wikipedia": "https://en.wikipedia.org/wiki/Blue_Velvet_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/blue-velvet.jpg",
+            "info": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+        },
+
+        {
+            "id": "59",
+            "title": "Psycho",
+            "year": "1960",
+            "genre": [10, 3],
+            "rate": "10",
+            "director": "Alfred Hitchcock",
+            "cast": "Anthony Perkins, Janet Leigh, Vera Miles",
+            "wikipedia": "https://en.wikipedia.org/wiki/Psycho_(1960_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/psycho.jpg",
+            "info": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother."
+        },
+
+        {
+            "id": "60",
+            "title": "The Silence of the Lambs",
+            "year": "1991",
+            "genre": [10, 3],
+            "rate": "10",
+            "director": "Jonathan Demme",
+            "cast": "Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-silence-of-the-lambs.jpg",
+            "info": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+        },
+
+        {
+            "id": "61",
+            "title": "Mystic River",
+            "year": "2003",
+            "genre": [4, 1],
+            "rate": "10",
+            "director": "Clint Eastwood",
+            "cast": "Sean Penn, Tim Robbins, Kevin Bacon",
+            "wikipedia": "https://en.wikipedia.org/wiki/Mystic_River_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/mystic-river.jpg",
+            "info": "The lives of three men who were childhood friends are shattered when one of them has a family tragedy."
+        },
+
+        {
+            "id": "62",
+            "title": "Chinatown",
+            "year": "1974",
+            "genre": [4, 1],
+            "rate": "10",
+            "director": "Roman Polanski",
+            "cast": "Jack Nicholson, Faye Dunaway, John Huston",
+            "wikipedia": "https://en.wikipedia.org/wiki/Chinatown_(1974_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/chinatown.jpg",
+            "info": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder."
+        },
+
+        {
+            "id": "63",
+            "title": "Vertigo",
+            "year": "1958",
+            "genre": [10, 3],
+            "rate": "9",
+            "director": "Alfred Hitchcock",
+            "cast": "James Stewart, Kim Novak, Barbara Bel Geddes",
+            "wikipedia": "https://en.wikipedia.org/wiki/Vertigo_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/vertigo.jpg",
+            "info": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed."
+        },
+
+        {
+            "id": "64",
+            "title": "Still Alice",
+            "year": "2014",
+            "genre": [1],
+            "rate": "8",
+            "director": "Richard Glatzer, Wash Westmoreland",
+            "cast": " Julianne Moore, Alec Baldwin, Kristen Stewart",
+            "wikipedia": "https://en.wikipedia.org/wiki/Still_Alice",
+            "image": "https://bittrix-github.github.io/bmdb-images/still-alicejpg",
+            "info": "A linguistics professor and her family find their bonds tested when she is diagnosed with Alzheimer's Disease."
+        },
+
+        {
+            "id": "65",
+            "title": "Ferris Bueller's Day Off",
+            "year": "1986",
+            "genre": [2],
+            "rate": "8",
+            "director": "John Hughes",
+            "cast": "Matthew Broderick, Alan Ruck, Mia Sara",
+            "wikipedia": "https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off",
+            "image": "https://bittrix-github.github.io/bmdb-images/ferris-buellers-day-off.jpg",
+            "info": "A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that."
+        },
+
+        {
+            "id": "66",
+            "title": "The Mercenary",
+            "year": "1968",
+            "genre": [7],
+            "rate": "8",
+            "director": "Sergio Corbucci",
+            "cast": "Franco Nero, Tony Musante, Franco Giacobini",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Mercenary_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-mercenary.jpg",
+            "info": "A greedy Polish mercenary helps a mine worker and a peasant girl lead a revolution against the Mexican Government, all while being pursued by an American rival."
+        },
+
+        {
+            "id": "67",
+            "title": "Do the Right Thing",
+            "year": "1989",
+            "genre": [1],
+            "rate": "9",
+            "director": "Spike Lee",
+            "cast": "Danny Aiello, Ossie Davis, Ruby Dee",
+            "wikipedia": "https://en.wikipedia.org/wiki/Do_the_Right_Thing",
+            "image": "https://bittrix-github.github.io/bmdb-images/do-the-right-thing.jpg",
+            "info": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence."
+        },
+
+        {
+            "id": "68",
+            "title": "It Happened One Night",
+            "year": "1934",
+            "genre": [5, 2],
+            "rate": "8",
+            "director": "Frank Capra",
+            "cast": "Clark Gable, Claudette Colbert, Walter Connolly",
+            "wikipedia": "https://en.wikipedia.org/wiki/It_Happened_One_Night",
+            "image": "https://bittrix-github.github.io/bmdb-images/it-happened-one-night.jpg",
+            "info": "A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops."
+        },
+
+        {
+            "id": "69",
+            "title": "Citizen Kane",
+            "year": "1941",
+            "genre": [1],
+            "rate": "9",
+            "director": "Orson Welles",
+            "cast": "Orson Welles, Joseph Cotten, Dorothy Comingore",
+            "wikipedia": "https://en.wikipedia.org/wiki/Citizen_Kane",
+            "image": "https://bittrix-github.github.io/bmdb-images/citizen-kane.jpg",
+            "info": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud'."
+        },
+
+        {
+            "id": "70",
+            "title": "American Graffiti",
+            "year": "1973",
+            "genre": [9, 1],
+            "rate": "8",
+            "director": "George Lucas",
+            "cast": "Richard Dreyfuss, Ron Howard, Paul Le Mat",
+            "wikipedia": "https://en.wikipedia.org/wiki/American_Graffiti",
+            "image": "https://bittrix-github.github.io/bmdb-images/american-graffiti.jpg",
+            "info": "A group of teenagers in California's central valley spend one final night after their 1962 high school graduation cruising the strip with their buddies before they pursue their varying goals."
+        },
+
+        {
+            "id": "71",
+            "title": "Kids",
+            "year": "1995",
+            "genre": [9, 1],
+            "rate": "9",
+            "director": "Larry Clark",
+            "cast": "Leo Fitzpatrick, Justin Pierce, Chloë Sevigny",
+            "wikipedia": "https://en.wikipedia.org/wiki/Kids_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/kids.jpg",
+            "info": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins."
+        },
+
+        {
+            "id": "72",
+            "title": "El secreto de sus ojos",
+            "year": "2009",
+            "genre": [4, 3, 1],
+            "rate": "9",
+            "director": "Juan José Campanella",
+            "cast": "Ricardo Darín, Soledad Villamil, Pablo Rago",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Secret_in_Their_Eyes",
+            "image": "https://bittrix-github.github.io/bmdb-images/el-secreto-de-sus-ojos.jpg",
+            "info": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later."
+        },
+
+        {
+            "id": "73",
+            "title": "The Breakfast Club",
+            "year": "1985",
+            "genre": [9, 2, 1],
+            "rate": "10",
+            "director": "John Hughes",
+            "cast": "Emilio Estevez, Judd Nelson, Molly Ringwald",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Breakfast_Club",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-breakfast-club.jpg",
+            "info": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought."
+        },
+
+        {
+            "id": "74",
+            "title": "Ex Machina",
+            "year": "2015",
+            "genre": [6, 10, 1],
+            "rate": "10",
+            "director": "Alex Garland",
+            "cast": "Alicia Vikander, Domhnall Gleeson, Oscar Isaac",
+            "wikipedia": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/ex-machina.jpg",
+            "info": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I."
+        },
+
+        {
+            "id": "75",
+            "title": "Zootopia",
+            "year": "2016",
+            "genre": [11, 2, 8],
+            "rate": "9",
+            "director": "Byron Howard, Rich Moore, Jared Bush",
+            "cast": "Ginnifer Goodwin (voice), Jason Bateman (voice), Idris Elba (voice)",
+            "wikipedia": "https://en.wikipedia.org/wiki/Zootopia",
+            "image": "https://bittrix-github.github.io/bmdb-images/zootopia.jpg",
+            "info": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy."
+        },
+
+        {
+            "id": "76",
+            "title": "L.A. Confidential",
+            "year": "1997",
+            "genre": [4, 3],
+            "rate": "10",
+            "director": "Curtis Hanson",
+            "cast": "Kevin Spacey, Russell Crowe, Guy Pearce",
+            "wikipedia": "https://en.wikipedia.org/wiki/L.A._Confidential_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/la-confidential.jpg",
+            "info": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice."
+        },
+
+        {
+            "id": "77",
+            "title": "Insomnia",
+            "year": "2002",
+            "genre": [10, 4, 3],
+            "rate": "8",
+            "director": "Christopher Nolan",
+            "cast": "Al Pacino, Robin Williams, Hilary Swank",
+            "wikipedia": "https://en.wikipedia.org/wiki/Insomnia_(2002_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/insomnia.jpg",
+            "info": "Two Los Angeles homicide detectives are dispatched to a northern town where the sun doesn't set to investigate the methodical murder of a local teen."
+        },
+
+        {
+            "id": "78",
+            "title": "Burn After Reading",
+            "year": "2008",
+            "genre": [2, 3],
+            "rate": "8",
+            "director": "Ethan Coen, Joel Coen",
+            "cast": "Brad Pitt, Frances McDormand, George Clooney",
+            "wikipedia": "https://en.wikipedia.org/wiki/Burn_After_Reading",
+            "image": "https://bittrix-github.github.io/bmdb-images/burn-after-reading.jpg",
+            "info": "A disk containing mysterious information from a CIA agent ends up in the hands of two unscrupulous and daft gym employees who attempt to sell it."
+        },
+
+        {
+            "id": "79",
+            "title": "Snatch",
+            "year": "2000",
+            "genre": [4, 2],
+            "rate": "8",
+            "director": "Guy Ritchie",
+            "cast": "Jason Statham, Brad Pitt, Stephen Graham",
+            "wikipedia": "https://en.wikipedia.org/wiki/Snatch_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/snatch.jpg",
+            "info": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond."
+        },
+
+        {
+            "id": "80",
+            "title": "Memento",
+            "year": "2000",
+            "genre": [4, 3],
+            "rate": "8",
+            "director": "Christopher Nolan",
+            "cast": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+            "wikipedia": "https://en.wikipedia.org/wiki/Memento_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/memento.jpg",
+            "info": "A man with short-term memory loss attempts to track down his wife's murderer."
+        },
+
+        {
+            "id": "81",
+            "title": "The Shining",
+            "year": "1980",
+            "genre": [10, 3],
+            "rate": "10",
+            "director": "Stanley Kubrick",
+            "cast": "Jack Nicholson, Shelley Duvall, Danny Lloyd",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Shining_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-shining.jpg",
+            "info": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
+        },
+
+        {
+            "id": "82",
+            "title": "Inception",
+            "year": "2010",
+            "genre": [6, 8],
+            "rate": "9",
+            "director": "Christopher Nolan",
+            "cast": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+            "wikipedia": "https://en.wikipedia.org/wiki/Inception",
+            "image": "https://bittrix-github.github.io/bmdb-images/inception.jpg",
+            "info": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+        },
+
+        {
+            "id": "83",
+            "title": "The Departed",
+            "year": "2006",
+            "genre": [4, 3, 13],
+            "rate": "9",
+            "director": "Martin Scorsese",
+            "cast": " Leonardo DiCaprio, Matt Damon, Jack Nicholson",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Departed",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-departed.jpg",
+            "info": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+        },
+
+        {
+            "id": "84",
+            "title": "Fargo",
+            "year": "1996",
+            "genre": [4, 2],
+            "rate": "8",
+            "director": "Joel Coen, Ethan Coen",
+            "cast": "William H. Macy, Frances McDormand, Steve Buscemi",
+            "wikipedia": "https://en.wikipedia.org/wiki/Fargo_(1996_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/fargo.jpg",
+            "info": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson."
+        },
+
+        {
+            "id": "85",
+            "title": "Whiplash",
+            "year": "2014",
+            "genre": [10, 1],
+            "rate": "9",
+            "director": "Damien Chazelle",
+            "cast": "Miles Teller, J.K. Simmons, Melissa Benoist",
+            "wikipedia": "https://en.wikipedia.org/wiki/Whiplash_(2014_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/whiplash.jpg",
+            "info": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+        },
+
+        {
+            "id": "86",
+            "title": "Gone Girl",
+            "year": "2014",
+            "genre": [10, 3],
+            "rate": "9",
+            "director": "David Fincher",
+            "cast": "Ben Affleck, Rosamund Pike, Neil Patrick Harris",
+            "wikipedia": "https://en.wikipedia.org/wiki/Gone_Girl_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/gone-girl.jpg",
+            "info": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent."
+        },
+
+        {
+            "id": "87",
+            "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+            "year": "2014",
+            "genre": [2, 1],
+            "rate": "9",
+            "director": "Alejandro G. Iñárritu",
+            "cast": "Michael Keaton, Zach Galifianakis, Edward Norton",
+            "wikipedia": "https://en.wikipedia.org/wiki/Birdman_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/bidman.jpg",
+            "info": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production."
+        },
+
+        {
+            "id": "88",
+            "title": "Back to the Future",
+            "year": "1985",
+            "genre": [6],
+            "rate": "10",
+            "director": "Robert Zemeckis",
+            "cast": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+            "wikipedia": "https://en.wikipedia.org/wiki/Back_to_the_Future",
+            "image": "https://bittrix-github.github.io/bmdb-images/back-to-the-future.jpg",
+            "info": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+        },
+
+        {
+            "id": "89",
+            "title": "Back to the Future Part 2",
+            "year": "1989",
+            "genre": [6],
+            "rate": "8",
+            "director": "Robert Zemeckis",
+            "cast": "Michael J. Fox, Christopher Lloyd, Lea Thompson",
+            "wikipedia": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II",
+            "image": "https://bittrix-github.github.io/bmdb-images/back-to-the-future-2.jpg",
+            "info": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip."
+        },
+
+        {
+            "id": "90",
+            "title": "Back to the Future Part 3",
+            "year": "1990",
+            "genre": [6, 7],
+            "rate": "9",
+            "director": "Robert Zemeckis",
+            "cast": "Michael J. Fox, Christopher Lloyd, Mary Steenburgen",
+            "wikipedia": "https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III",
+            "image": "https://bittrix-github.github.io/bmdb-images/back-to-the-future-3.jpg",
+            "info": "Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him. With no fuel readily available for the DeLorean, the two must figure how to escape the Old West before Emmett is murdered."
+        },
+
+        {
+            "id": "91",
+            "title": "Dazed and Confused",
+            "year": "1993",
+            "genre": [9, 2],
+            "rate": "8",
+            "director": "Richard Linklater",
+            "cast": "Jason London, Wiley Wiggins, Matthew McConaughey",
+            "wikipedia": "https://en.wikipedia.org/wiki/Dazed_and_Confused_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/dazed-and-confused.jpg",
+            "info": "The adventures of high school and junior high students on the last day of school in May 1976."
+        },
+
+        {
+            "id": "92",
+            "title": "No Country for Old Men",
+            "year": "2007",
+            "genre": [4, 3, 7],
+            "rate": "9",
+            "director": "Ethan Coen, Joel Coen",
+            "cast": "Tommy Lee Jones, Javier Bardem, Josh Brolin",
+            "wikipedia": "https://en.wikipedia.org/wiki/No_Country_for_Old_Men",
+            "image": "https://bittrix-github.github.io/bmdb-images/no-country-for-old-men.jpg",
+            "info": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+        },
+
+        {
+            "id": "93",
+            "title": "Nightcrawler",
+            "year": "2014",
+            "genre": [10, 3],
+            "rate": "9",
+            "director": "Dan Gilroy",
+            "cast": "Jake Gyllenhaal, Rene Russo, Bill Paxton",
+            "wikipedia": "https://en.wikipedia.org/wiki/Nightcrawler_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/nightcrawler.jpg",
+            "info": "When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story."
+        },
+
+        {
+            "id": "94",
+            "title": "Kill Bill: Vol. 1",
+            "year": "2003",
+            "genre": [8],
+            "rate": "8",
+            "director": "Quentin Tarantino",
+            "cast": "Uma Thurman, David Carradine, Daryl Hannah",
+            "wikipedia": "https://en.wikipedia.org/wiki/Kill_Bill:_Volume_1",
+            "image": "https://bittrix-github.github.io/bmdb-images/kill-bill.jpg",
+            "info": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+        },
+
+        {
+            "id": "95",
+            "title": "Kill Bill: Vol. 2",
+            "year": "2004",
+            "genre": [8],
+            "rate": "9",
+            "director": "Quentin Tarantino",
+            "cast": "Uma Thurman, David Carradine, Michael Madsen",
+            "wikipedia": "https://en.wikipedia.org/wiki/Kill_Bill:_Volume_2",
+            "image": "https://bittrix-github.github.io/bmdb-images/kill-bill-2.jpg",
+            "info": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle."
+        },
+
+        {
+            "id": "96",
+            "title": "Kramer vs. Kramer",
+            "year": "1979",
+            "genre": [1],
+            "rate": "10",
+            "director": "Robert Benton",
+            "cast": "Dustin Hoffman, Meryl Streep, Jane Alexander",
+            "wikipedia": "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+            "image": "https://bittrix-github.github.io/bmdb-images/kramer-vs-kramer.jpg",
+            "info": "After his wife leaves him, a work-obsessed Manhattan advertising executive is forced to learn long-neglected parenting skills, but a heated custody battle over the couple's young son deepens the wounds left by the separation."
+        },
+
+        {
+            "id": "97",
+            "title": "...and Justice for All",
+            "year": "1979",
+            "genre": [1],
+            "rate": "9",
+            "director": "Norman Jewison",
+            "cast": "Al Pacino, Jack Warden, John Forsythe",
+            "wikipedia": "https://en.wikipedia.org/wiki/...And_Justice_for_All_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/and-justice-for-all.jpg",
+            "info": "A lawyer is forced to defend a guilty judge, while defending other innocent clients, and trying to find punishment for the guilty and provide justice for the innocent."
+        },
+
+        {
+            "id": "98",
+            "title": "A Fistful of Dollars",
+            "year": "1964",
+            "genre": [7],
+            "rate": "8",
+            "director": "Sergio Leone",
+            "cast": "Clint Eastwood, Gian Maria Volontè, Marianne Koch",
+            "wikipedia": "https://en.wikipedia.org/wiki/A_Fistful_of_Dollars",
+            "image": "https://bittrix-github.github.io/bmdb-images/a-fistful-of-dollars.jpg",
+            "info": "A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge."
+        },
+
+        {
+            "id": "99",
+            "title": "For a Few Dollars More",
+            "year": "1965",
+            "genre": [7],
+            "rate": "9",
+            "director": "Sergio Leone",
+            "cast": "Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",
+            "wikipedia": "https://en.wikipedia.org/wiki/For_a_Few_Dollars_More",
+            "image": "https://bittrix-github.github.io/bmdb-images/for-a-few-dollars-more.jpg",
+            "info": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw."
+        },
+
+        {
+            "id": "100",
+            "title": "The Good, The Bad, The Ugly",
+            "year": "1966",
+            "genre": [7],
+            "rate": "10",
+            "director": "Sergio Leone",
+            "cast": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-good-the-bad-the-ugly.jpg",
+            "info": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+        },
+
+        {
+            "id": "101",
+            "title": "Trainspotting",
+            "year": "1996",
+            "genre": [2, 1],
+            "rate": "8",
+            "director": "Danny Boyle",
+            "cast": "Ewan McGregor, Ewen Bremner, Jonny Lee Miller",
+            "wikipedia": "https://en.wikipedia.org/wiki/Trainspotting_(film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/trainspotting.jpg",
+            "info": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends."
+        },
+
+        {
+            "id": "102",
+            "title": "La Piel ue Habito",
+            "year": "2011",
+            "genre": [6, 10, 3],
+            "rate": "8",
+            "director": "Pedro Almodóvar",
+            "cast": "Antonio Banderas, Elena Anaya, Jan Cornet",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Skin_I_Live_In",
+            "image": "https://bittrix-github.github.io/bmdb-images/la-piel-que-habito.jpg",
+            "info": "A brilliant plastic surgeon, haunted by past tragedies, creates a type of synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession."
+        },
+
+        {
+            "id": "103",
+            "title": "Requiem for a Dream",
+            "year": "2000",
+            "genre": [10, 1, 3],
+            "rate": "8",
+            "director": "Darren Aronofsky",
+            "cast": "Ellen Burstyn, Jared Leto, Jennifer Connelly",
+            "wikipedia": "https://en.wikipedia.org/wiki/Requiem_for_a_Dream",
+            "image": "https://bittrix-github.github.io/bmdb-images/requiem-for-a-dream.jpg",
+            "info": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep."
+        },
+
+        {
+            "id": "104",
+            "title": "Django Unchained",
+            "year": "2012",
+            "genre": [7],
+            "rate": "10",
+            "director": "Quentin Tarantino",
+            "cast": "Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",
+            "wikipedia": "https://en.wikipedia.org/wiki/Django_Unchained",
+            "image": "https://bittrix-github.github.io/bmdb-images/django-unchained.jpg",
+            "info": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi."
+        },
+
+        {
+            "id": "105",
+            "title": "Thelma & Louise",
+            "year": "1991",
+            "genre": [4, 12, 1],
+            "rate": "9",
+            "director": "Ridley Scott",
+            "cast": "Susan Sarandon, Geena Davis, Harvey Keitel",
+            "wikipedia": "https://en.wikipedia.org/wiki/Thelma_%26_Louise",
+            "image": "https://bittrix-github.github.io/bmdb-images/thelma-and-louise.jpg",
+            "info": "Two best friends set out on an adventure, but it soon turns around to a terrifying escape from being hunted by the police, as these two girls escape for the crimes they committed."
+        },
+
+        {
+            "id": "106",
+            "title": "The Wolf of Wall Street",
+            "year": "2013",
+            "genre": [13, 2],
+            "rate": "10",
+            "director": "Martin Scorsese",
+            "cast": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+            "wikipedia": "https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/the-wolf-of-wall-street.jpg",
+            "info": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+        },
+
+        {
+            "id": "107",
+            "title": "Taxi Driver",
+            "year": "1976",
+            "genre": [4, 1],
+            "rate": "8",
+            "director": "Martin Scorsese",
+            "cast": "Robert De Niro, Jodie Foster, Cybill Shepherd",
+            "wikipedia": "https://en.wikipedia.org/wiki/Taxi_Driver",
+            "image": "https://bittrix-github.github.io/bmdb-images/taxi-driver.jpg",
+            "info": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
+        },
+
+        {
+            "id": "108",
+            "title": "Se7en",
+            "year": "1995",
+            "genre": [4, 3],
+            "rate": "10",
+            "director": "David Fincher",
+            "cast": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+            "wikipedia": "https://en.wikipedia.org/wiki/Seven_(1995_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/se7en.jpg",
+            "info": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+        },
+
+        {
+            "id": "109",
+            "title": "Scarface",
+            "year": "1983",
+            "genre": [4, 1],
+            "rate": "9",
+            "director": "Brian de Palma",
+            "cast": "Al Pacino, Michelle Pfeiffer, Steven Bauer",
+            "wikipedia": "https://en.wikipedia.org/wiki/Scarface_(1983_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/scarface.jpg",
+            "info": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel."
+        },
+
+        {
+            "id": "110",
+            "title": "Reservoir Dogs",
+            "year": "1992",
+            "genre": [4, 3],
+            "rate": "7",
+            "director": "Quentin Tarantino",
+            "cast": "Harvey Keitel, Tim Roth, Michael Madsen",
+            "wikipedia": "https://en.wikipedia.org/wiki/Reservoir_Dogs",
+            "image": "https://bittrix-github.github.io/bmdb-images/reservoir-dogs.jpg",
+            "info": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant."
+        },
+
+        {
+            "id": "111",
+            "title": "Pulp Fiction",
+            "year": "1994",
+            "genre": [4, 2],
+            "rate": "10",
+            "director": "Quentin Tarantino",
+            "cast": "John Travolta, Uma Thurman, Samuel L. Jackson",
+            "wikipedia": "https://en.wikipedia.org/wiki/Pulp_Fiction",
+            "image": "https://bittrix-github.github.io/bmdb-images/pulp-fiction.jpg",
+            "info": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+        },
+
+        {
+            "id": "112",
+            "title": "Menace II Society",
+            "year": "1993",
+            "genre": [4, 1],
+            "rate": "8",
+            "director": "Albert Hughes, Allen Hughes",
+            "cast": "Tyrin Turner, Larenz Tate, June Kyoto Lu",
+            "wikipedia": "https://en.wikipedia.org/wiki/Menace_II_Society",
+            "image": "https://bittrix-github.github.io/bmdb-images/menace-2-society.jpg",
+            "info": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life."
+        },
+
+        {
+            "id": "113",
+            "title": "Inglourious Basterds",
+            "year": "2009",
+            "genre": [12, 1],
+            "rate": "9",
+            "director": "Quentin Tarantino",
+            "cast": "Brad Pitt, Diane Kruger, Eli Roth",
+            "wikipedia": "https://en.wikipedia.org/wiki/Inglourious_Basterds",
+            "image": "https://bittrix-github.github.io/bmdb-images/inglourious-basterds.jpg",
+            "info": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+        },
+
+        {
+            "id": "114",
+            "title": "Goodfellas",
+            "year": "1990",
+            "genre": [4, 1],
+            "rate": "9",
+            "director": "Martin Scorsese",
+            "cast": "Robert De Niro, Ray Liotta, Joe Pesci",
+            "wikipedia": "https://en.wikipedia.org/wiki/Goodfellas",
+            "image": "https://bittrix-github.github.io/bmdb-images/goodfellas.jpg",
+            "info": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate."
+        },
+
+        {
+            "id": "115",
+            "title": "Friday",
+            "year": "1995",
+            "genre": [2],
+            "rate": "8",
+            "director": "F. Gary Gray",
+            "cast": "Ice Cube, Chris Tucker, Nia Long",
+            "wikipedia": "https://en.wikipedia.org/wiki/Friday_(1995_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/friday.jpg",
+            "info": "It's Friday, and Craig and Smokey must come up with $200 they owe a local bully or there won't be a Saturday."
+        },
+
+        {
+            "id": "116",
+            "title": "Fight Club",
+            "year": "1999",
+            "genre": [10, 3],
+            "rate": "8",
+            "director": "David Fincher",
+            "cast": "Brad Pitt, Edward Norton, Meat Loaf",
+            "wikipedia": "https://en.wikipedia.org/wiki/Fight_Club",
+            "image": "https://bittrix-github.github.io/bmdb-images/fight-club.jpg",
+            "info": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+        },
+
+        {
+            "id": "117",
+            "title": "Drive",
+            "year": "2011",
+            "genre": [4, 3, 8],
+            "rate": "7",
+            "director": "Nicolas Winding Refn",
+            "cast": "Ryan Gosling, Carey Mulligan, Bryan Cranston",
+            "wikipedia": "https://en.wikipedia.org/wiki/Drive_(2011_film)",
+            "image": "https://bittrix-github.github.io/bmdb-images/drive.jpg",
+            "info": "A mysterious Hollywood action film stuntman gets in trouble with gangsters when he tries to help his neighbor's husband rob a pawn shop while serving as his getaway driver."
+        },
+
+        {
+            "id": "118",
+            "title": "Boyz n the Hood",
+            "year": "1991",
+            "genre": [9, 4, 1],
+            "rate": "8",
+            "director": "John Singleton",
+            "cast": "Cuba Gooding Jr., Ice Cube, Laurence Fishburne",
+            "wikipedia": "https://en.wikipedia.org/wiki/Boyz_n_the_Hood",
+            "image": "https://bittrix-github.github.io/bmdb-images/boyz-n-the-hood.jpg",
+            "info": "Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence, and future prospects."
+        },
+
+        {
+            "id": "119",
+            "title": "Batman Begins",
+            "year": "2005",
+            "genre": [8, 1],
+            "rate": "8",
+            "director": "Christopher Nolan",
+            "cast": "Christian Bale, Michael Caine, Ken Watanabe",
+            "wikipedia": "https://en.wikipedia.org/wiki/Batman_Begins",
+            "image": "https://bittrix-github.github.io/bmdb-images/batman-begins.jpg",
+            "info": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption."
+        },
+
+        {
+            "id": "120",
+            "title": "American History X",
+            "year": "1998",
+            "genre": [4, 1],
+            "rate": "9",
+            "director": "Tony Kaye",
+            "cast": " Edward Norton, Edward Furlong, Beverly D'Angelo",
+            "wikipedia": "https://en.wikipedia.org/wiki/American_History_X",
+            "image": "https://bittrix-github.github.io/bmdb-images/american-history-x.jpg",
+            "info": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+        },
+
+        {
+            "id": "121",
+            "title": "Training Day",
+            "year": "2001",
+            "genre": [4, 3],
+            "rate": "9",
+            "director": "Antoine Fuqua",
+            "cast": "Denzel Washington, Ethan Hawke, Scott Glenn",
+            "wikipedia": "https://en.wikipedia.org/wiki/Training_Day",
+            "image": "https://bittrix-github.github.io/bmdb-images/training-day.jpg",
+            "info": "A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be."
+        },
+
+        {
+            "id": "122",
+            "title": "Before Sunrise",
+            "year": "1995",
+            "genre": [5, 1],
+            "rate": "10",
+            "director": "Richard Linklater",
+            "cast": "Ethan Hawke, Julie Delpy",
+            "wikipedia": "https://en.wikipedia.org/wiki/Before_Sunrise",
+            "image": "https://bittrix-github.github.io/bmdb-images/before-sunrise.jpg",
+            "info": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together."
+        },
+
+        {
+            "id": "123",
+            "title": "Before Sunset",
+            "year": "2004",
+            "genre": [5, 1],
+            "rate": "10",
+            "director": "Richard Linklater",
+            "cast": "Ethan Hawke, Julie Delpy",
+            "wikipedia": "https://en.wikipedia.org/wiki/Before_Sunset",
+            "image": "https://bittrix-github.github.io/bmdb-images/before-sunset.jpg",
+            "info": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour."
+        },
+
+        {
+            "id": "124",
+            "title": "Before Midnight",
+            "year": "2013",
+            "genre": [5, 1],
+            "rate": "9",
+            "director": "Richard Linklater",
+            "cast": "Ethan Hawke, Julie Delpy, Seamus Davey-Fitzpatrick",
+            "wikipedia": "https://en.wikipedia.org/wiki/Before_Midnight",
+            "image": "https://bittrix-github.github.io/bmdb-images/before-midnight.jpg",
+            "info": "We meet Jesse and Celine nine years on in Greece. Almost two decades have passed since their first meeting on that train bound for Vienna."
+        },
+
+        {
+            "id": "125",
+            "title": "La La Land",
+            "year": "2016",
+            "genre": [5, 2, 1],
+            "rate": "10",
+            "director": "Damien Chazelle",
+            "cast": "Ryan Gosling, Emma Stone, Rosemarie DeWitt",
+            "wikipedia": "https://en.wikipedia.org/wiki/La_La_Land",
+            "image": "https://bittrix-github.github.io/bmdb-images/la-la-land.jpg",
+            "info": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+        }
+
+    ]
+
+}
